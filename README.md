@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of the repositories here are just random thoughts and some tools that I want to use.
+
 <!--
 **rnd00/rnd00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
